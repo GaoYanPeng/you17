@@ -7,7 +7,7 @@ import android.view.View.OnClickListener;
 
 public class MainActivity extends AppCompatActivity implements OnClickListener{
     //功能一
-
+//功能三
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
